@@ -49,7 +49,11 @@ Instale my-project com npm
 | `email` | `string` | **Obrigatório** |
 | `password` | `string` | **Obrigatório** |
 
+#### Deslogar o usuario Autenticado
 
+```http
+  POST http://127.0.0.1:8000/api/task/logout
+```
 
 #### Retorna todos os items do usuario autenticado
 
