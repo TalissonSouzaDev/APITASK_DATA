@@ -1,6 +1,6 @@
 # API TASK
 
-Uma API para criação de bloco de notas
+Uma API para criação de bloco de notas LARAVEL 9.0
 
 
 ## Instalação
