@@ -5,8 +5,6 @@ Uma API para criação de bloco de notas LARAVEL 9.0
 
 ## Instalação
 
-Instale my-project com npm
-
 ```bash
   
   git clone https://github.com/TalissonSouzaDev/APITASK_DATA.git
